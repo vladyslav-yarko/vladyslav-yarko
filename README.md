@@ -1,12 +1,8 @@
 # 👋 Hi, I’m Vladyslav
 
-💻 Fullstack Developer | 🚀 Learning AI/ML  
+💻 Fullstack DevOps Engineer
 I love building RESTful APIs, scalable backends, and deploying projects end-to-end.  
 I create functional and clean frontends with solid UI ⚡
-
----
-
-![Open for freelance](https://img.shields.io/badge/Status-Open%20for%20freelance-brightgreen?style=flat-square)
 
 ---
 
@@ -41,7 +37,6 @@ I create functional and clean frontends with solid UI ⚡
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
 
 ### **DevOps & Tools**
@@ -51,6 +46,11 @@ I create functional and clean frontends with solid UI ⚡
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Helm](https://img.shields.io/badge/Helm-0F101A?style=flat-square&logo=helm&logoColor=white)
+![Harbor](https://img.shields.io/badge/Harbor-084B8A?style=flat-square&logo=harbor&logoColor=white)
+![HashiCorp Vault](https://img.shields.io/badge/Vault-000000?style=flat-square&logo=hashicorp-vault&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
@@ -79,22 +79,7 @@ I create functional and clean frontends with solid UI ⚡
 - **Repository** - Encapsulates data access logic
 - **Onion architecture** - Layered architecture for maintainable applications
 - **DDD** – Domain-Driven Design  
-- **REST Architecture** – Clean, scalable API design  
-
----
-
-## 🚀 Highlight Projects
-Here are some of my main projects (more in my repos):
-
----
-
-- Portfolio Website (GitHub Pages / Notion): *[placeholder link]*  
-
----
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladyslav-yarko&layout=compact&theme=radical)  
+- **REST Architecture** – Clean, scalable API design
 
 ---
 ⭐️ *Always open to interesting projects — reach out if you’d like to collaborate!*
